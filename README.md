@@ -28,3 +28,4 @@ jenkins-project/
 1.docker ps (the container is running)
 
 
+
