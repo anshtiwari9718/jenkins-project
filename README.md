@@ -29,8 +29,9 @@ jenkins-project/
 ![docker ps](https://github.com/anshtiwari9718/jenkins-project/blob/5186d38f28ba867eb2b4fd5923bcb5ce6a0ab78f/screenshot/docker%20ps%20.png)
 
 2.Console output 
-![console output1](https://github.com/anshtiwari9718/jenkins-project/blob/5186d38f28ba867eb2b4fd5923bcb5ce6a0ab78f/screenshot/console%20output%202.png)
-![console output2](https://github.com/anshtiwari9718/jenkins-project/blob/5186d38f28ba867eb2b4fd5923bcb5ce6a0ab78f/screenshot/console%20output%203.png)
+![console output1](https://github.com/anshtiwari9718/jenkins-project/blob/9a7b34d0970a1d26ca1b934278b7ae027c140619/screenshot/console%20output%201.png)
+![console output2](https://github.com/anshtiwari9718/jenkins-project/blob/5186d38f28ba867eb2b4fd5923bcb5ce6a0ab78f/screenshot/console%20output%202.png)
+![console output3](https://github.com/anshtiwari9718/jenkins-project/blob/5186d38f28ba867eb2b4fd5923bcb5ce6a0ab78f/screenshot/console%20output%203.png)
 
 3.Builds 
 ![builds](https://github.com/anshtiwari9718/jenkins-project/blob/5186d38f28ba867eb2b4fd5923bcb5ce6a0ab78f/screenshot/builds.png)
