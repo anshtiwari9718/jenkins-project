@@ -36,6 +36,9 @@ jenkins-project/
 3.Builds 
 ![builds](https://github.com/anshtiwari9718/jenkins-project/blob/5186d38f28ba867eb2b4fd5923bcb5ce6a0ab78f/screenshot/builds.png)
 
+4.Application running 
+![running](https://github.com/anshtiwari9718/jenkins-project/blob/1b3c1d9e37866737c685e6dcea7386020798e45f/screenshot/Applcation%20running.png)
+
 
 
 
